@@ -1,4 +1,4 @@
-# 🎤 Say2Text - Real-Time Speech to Text Converter 🎤
+# Say2Text - Real-Time Speech to Text Converter 🎤
 
 Welcome to Say2Text, a powerful web-based speech-to-text converter that transcribes your spoken words into text effortlessly and in real-time. Whether you're dictating notes, writing content, or simply saving time, this tool is perfect for students, professionals, and anyone looking to streamline their workflow!
 
@@ -57,15 +57,7 @@ Follow these simple steps to run this project on your local machine:
 3. **Reset Transcript**: Clear the current transcription with the "Refresh" button.
 4. **Copy to Clipboard**: Easily copy the transcribed text to your clipboard with the "Copy" button.
 
-## 🎨 Screenshots
 
-1. Main Screen:
-
-   [Insert screenshot here]
-
-2. Transcription in Action:
-
-   [Insert screenshot here]
 
 ## 👩‍💻 How It Works
 
@@ -95,13 +87,3 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 3. Make your changes and commit (`git commit -m 'Add a new feature'`).
 4. Push to the branch (`git push origin feature-newFeature`).
 5. Open a pull request.
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
-Enjoy using Say2Text? Don't forget to ⭐️ the repo!
-
-## 📧 Contact
-
-If you have any questions or suggestions, feel free to contact me at your-email@example.com.
