@@ -1,6 +1,7 @@
 # Say2Text - Real-Time Speech to Text Converter 🎤
 
 Welcome to Say2Text, a powerful web-based speech-to-text converter that transcribes your spoken words into text effortlessly and in real-time. Whether you're dictating notes, writing content, or simply saving time, this tool is perfect for students, professionals, and anyone looking to streamline their workflow!
+Live link : https://say2text.netlify.app/
 
 ## 🚀 Features
 
@@ -15,7 +16,8 @@ Welcome to Say2Text, a powerful web-based speech-to-text converter that transcri
 
 Experience the power of Say2Text with a live demo:
 
-[Demo Link (Coming Soon!)]()
+https://github.com/user-attachments/assets/fcfea758-505e-4272-945d-210ef2761c99
+
 
 ## 🛠️ Tech Stack
 
