@@ -103,7 +103,7 @@ const Body: React.FC = () => {
         />
       </div>
 
-      <div className="flex justify-center mt-10">
+      <div className="flex justify-center lg:mt-10">
         {listening ? (
           <button
             onClick={handleNotListening}
